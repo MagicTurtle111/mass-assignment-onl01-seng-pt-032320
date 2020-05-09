@@ -1,3 +1,1 @@
-class Person
-  #your code here
-end
+Mass Assignment Lab
